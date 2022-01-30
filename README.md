@@ -5,7 +5,7 @@ A news website application attract and encourage people to read more news, as we
 real and fake news. 
 We have designed to whole application, incorporating appealing visuals, gamification concepts to make it interesting and 
 most importantly, not boring to attract users to use the application. 
-One or two paragraphs providing an overview of your project. Tell us about your project.
+
 
 Essentially, this part is your sales pitch.
 

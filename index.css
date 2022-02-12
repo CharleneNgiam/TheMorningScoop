@@ -74,22 +74,6 @@
 
 /* for navigation bar in home page */
 
-/* .page h1{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    padding: 30px 100px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.page ul{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
 
 nav{
     display: flex;
@@ -142,6 +126,7 @@ nav ul li a.active
     left: 5px;
 }
 
+/* logo placement*/
 .logo{
     position: relative;
     padding-left: 1px;
@@ -160,6 +145,46 @@ nav ul li a.active
     color: red;
 } */
 
-.row{
+/* .row{
+    height: 100vh;
     color: black;
+    align-items: center;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    float: left;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 20%;  
+} */
+
+/* newsResults{
+    
+    align-items: center;
+    justify-content: center;
+    
+} */
+
+/* .col 13 m6 s12{
+    align-items: center;
+    justify-content: center;
+    
+} */
+
+.row{
+    /* max-width: 300px;
+    margin: 10px;
+    border: 1px solid grey; */
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+
 }
+    
+.responsive-img{
+    width: 50%;
+}
+
+
+
+

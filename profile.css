@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+/* for the style of whole page of the website */
+.page{
+    background: #D2F7FA;
+    min-height: 100vh;
+    width: 100%;
+    color: white;
+    position: relative;
+}
+
+/* style for spalsh page */
+.splash{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: #D2F7FA;
+    z-index: 200;
+    color: #72C2D6;
+    text-align: center;
+    line-height: 90vh;
+
+}
+
+/* for splash to disappear in seconds */
+.splash.display-none{
+    position: fixed;
+    opacity: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: #D2F7FA;
+    z-index: -10;
+    color: #72C2D6;
+    text-align: center;
+    line-height: 90vh;
+    transition: all 0.5s;
+
+}
+
+/* style for splash h1*/
+.splash h1{
+    font-size: 40px;
+}
+
+@keyframes fadeIn{
+    to{
+        opacity: 1;
+    }
+}
+
+.fade-in{
+    opacity: 0;
+    animation: fadeIn 1s ease-in forwards;
+}
+
+.animation-center{  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 100%;
+    height: 1vh ; /*if we only want this item to be smack center*/
+}
+
+
+
+/* for navigation bar in home page */
+
+
+nav{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #72C2D6;
+}
+
+nav ul{
+    flex: 1;
+    text-align: right;
+    /* padding-left: 600px; */
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0 10px;
+    font-size: 18px;
+    /* padding-bottom: 25px; */
+    /* padding-top: 20px; */
+} 
+
+nav ul li a{
+    text-decoration: none;
+    padding: 6px 15px;
+    color: white;
+    border-radius: 20px;
+}
+
+nav ul li a:hover,
+nav ul li a.active
+{
+    background:#D2F7FA;
+    color: black;
+}
+
+.page h1{
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+
+/* profile img placement */
+.profile-img{
+    position: relative;
+    left: 5px;
+}
+
+/* logo placement*/
+.logo{
+    position: relative;
+    padding-left: 1px;
+}
+
+.image{
+    position: absolute;
+    width: 250px;
+    height:250px;
+    top: 15%;
+    left: 643px;
+    
+}
+
+.profile h3{
+    font-size: 30px;
+    color: #0097BC;
+    text-align: center;
+    padding-top: 350px;
+}
+
+.quiz-attempts h3{
+    font-size: 25px;
+    color: #0097BC;
+    text-align: center;
+    padding-top: 50px;
+    background-color: white;
+    border-radius: 20px;
+    width: 20%;
+    margin-left: 614px;
+    padding: 6px 15px;
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.read-articles h3{
+    font-size: 25px;
+    color: #0097BC;
+    text-align: center;
+    padding-top: 50px;
+    background-color: white;
+    border-radius: 20px;
+    width: 20%;
+    margin-left: 614px;
+    padding: 6px 15px;
+    box-shadow: 10px 10px 5px lightblue;
+
+}
+

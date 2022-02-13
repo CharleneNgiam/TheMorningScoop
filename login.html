@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="login.css" rel="stylesheet" type="text/css" />
+    <title>The Morning Scoop</title>
+</head>
+
+<body>
+    <!-- html for splash page -->
+    <div class="splash">
+        <h1 class="fade-in">TheMorningScoop</h1>
+        <div>
+        <div class="animation-center">
+			<div style="display:block;">
+				<lottie-player src="https://assets7.lottiefiles.com/packages/lf20_qmfs6c3i.json"  background="transparent"  
+                speed="1"  style="width: 400px; height: 400px;"  loop controls autoplay></lottie-player>
+        
+			</div>
+
+		</div>
+        </div>
+
+    </div>
+
+
+
+    <div class="page">
+        <nav>
+            <img src="images/logo.png" class="logo" width="110" height="80" > 
+            <h1>TheMorningScoop</h1>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="">News</a></li>
+                <li><a href="">Fake News</a></li>
+                <li><a href="games.html">Games</a></li>
+                <li><a href="login.html" class="active">Login</a></li>
+            </ul>
+            <a href="profile.html">
+            <img src="images/profile.png" class="profile-img" width="80" height="80" > 
+            </a>
+        </nav> 
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br> 
+           
+        <div id="login-form" class="login-page">
+            <!-- creating form box -->
+            <div class="form-box">
+                <div class="button-box">
+                    <div id="btn"></div>
+                    <button type = "button" onclick="Login()" class="toggle-btn">Log In</button>
+                    <button type = "button" onclick="Register()" class="toggle-btn">Register</button>
+
+                </div>
+                <!-- creating login form -->
+                <form id="login" class="input-group-login">
+                    <input type="email"class="input-field"placeholder="Email" required>
+                    <input type="password"class="input-field"placeholder="Enter Password" required>
+                    <input type="checkbox"class="check-box"><span>Remember Password</span>
+                    <a href = "index.html">
+                    <button type="submit"class="submit-btn">Log In</button>
+                    </a>
+                    <!-- <button type="submit"class="submit-btn" onclick="location.href='index.html'">Log In</button> -->
+                    
+                    
+                    
+                    
+                </form>
+                <!-- creating sign up form -->
+                <form id="register" class="input-group-register">
+                    <input type="text"class="input-field"placeholder="Name" required>
+                    <input type="email"class="input-field"placeholder="Email" required>
+                    <input type="password"class="input-field"placeholder="Enter Password" required>
+                    <input type="password"class="input-field"placeholder="Confirm Password" required>
+                    <input type="checkbox"class="check-box" required><span>I agree to terms and conditions</span>
+                    <button type="submit"class="submit-btn">Register</button>
+                </form>
+
+            </div>
+
+        </div>  
+
+    </div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<script src="login.js"></script>
+
+</body>
+</html>

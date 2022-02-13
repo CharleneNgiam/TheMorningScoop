@@ -27,14 +27,19 @@ $(document).ready(function(){
         output +=`
           <div class="col 13 m6 s12">
           
-            <h3>${latestNews[i].title}</h3>
+            <h3 class=news>${latestNews[i].title}</h3>
             <div class="card-image">
               <img src="${latestNews[i].urlToImage}" class="responsive-img">
             </div>
+            <div class="link">
+            <a href="${latestNews[i].url}">Read more</a>
+            </div>
+            
             
           </div>
           
         `;
+      
       }
 
       if(output !== ""){
@@ -64,6 +69,6 @@ fetch(url)
   .then(response => response.json())
   .then(function(data){
     $("#newsResults").html("");
-    $("#newsResults").html(data.articles[0].title+data.articles[1].title);
+    $("#newsResults").html(data.articles[0].title+data.articles[0].urlToImage);
 
   }) */

@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+/* for the style of whole page of the website */
+.page{
+    background: #D2F7FA;
+    min-height: 100vh;
+    width: 100%;
+    color: white;
+    position: relative;
+}
+
+/* style for spalsh page */
+.splash{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: #D2F7FA;
+    z-index: 200;
+    color: #72C2D6;
+    text-align: center;
+    line-height: 90vh;
+
+}
+
+/* for splash to disappear in seconds */
+.splash.display-none{
+    position: fixed;
+    opacity: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: #D2F7FA;
+    z-index: -10;
+    color: #72C2D6;
+    text-align: center;
+    line-height: 90vh;
+    transition: all 0.5s;
+
+}
+
+/* style for splash h1*/
+.splash h1{
+    font-size: 40px;
+}
+
+@keyframes fadeIn{
+    to{
+        opacity: 1;
+    }
+}
+
+.fade-in{
+    opacity: 0;
+    animation: fadeIn 1s ease-in forwards;
+}
+
+.animation-center{  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 100%;
+    height: 1vh ; /*if we only want this item to be smack center*/
+}
+
+
+
+/* for navigation bar in home page */
+
+
+nav{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #72C2D6;
+}
+
+nav ul{
+    flex: 1;
+    text-align: right;
+    /* padding-left: 600px; */
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0 10px;
+    font-size: 18px;
+    /* padding-bottom: 25px; */
+    /* padding-top: 20px; */
+} 
+
+nav ul li a{
+    text-decoration: none;
+    padding: 6px 15px;
+    color: white;
+    border-radius: 20px;
+}
+
+nav ul li a:hover,
+nav ul li a.active
+{
+    background:#D2F7FA;
+    color: black;
+}
+
+.page h1{
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+
+/* profile img placement */
+.profile-img{
+    position: relative;
+    left: 5px;
+}
+
+/* logo placement*/
+.logo{
+    position: relative;
+    padding-left: 1px;
+}
+
+/* style for form */
+/* #login-form{
+    display: none;
+} */
+
+.form-box{
+    width:380px;
+    height:480px;
+    position: relative;
+    margin: 2% auto;
+    background: #72C2D6;
+    border-radius: 30px;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.button-box{
+    width: 220px;
+    margin: 35x auto;
+    position: relative; 
+    box-shadow: 0 0 15px 6px lightblue;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.toggle-btn{
+    padding: 10px 30px;
+    cursor: pointer;
+    background:transparent;
+    border:0;
+    outline:none;
+    position: relative;
+}
+
+#btn{
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 110px;
+    height:100%;
+    background: #abe3f1;
+    border-radius: 30px;
+    transition: .5s;
+}
+
+.input-group-login{
+    top: 150px;
+    position:absolute;
+    width:280px;
+    transition: .5s;
+}
+
+.input-group-register{
+    top: 120px;
+    position:absolute;
+    width:280px;
+    transition: .5s;
+}
+
+.input-field{
+    width: 100%;
+    padding: 10px 0;
+    margin:5px 0;
+    border-left:0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid rgb(7, 7, 7);
+    outline: none;
+    background: transparent;
+}
+
+.submit-btn{
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background: #abe3f1;
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+
+}
+
+.check-box{
+    margin: 30px 10px 34px 0;
+}
+
+span{
+    color:rgb(7, 7, 7);
+    font-size: 15px;
+    bottom: 68px;
+    position: absolute;
+}
+
+#login{
+    left:50px;
+}
+
+#login input{
+    color: black;
+    font-size: 15px;
+}
+
+#register{
+    left: 450px;
+}
+
+#register input{
+    color: black;
+    font-size: 15px;
+} 

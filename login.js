@@ -27,16 +27,23 @@ function Login()
     z.style.left="0px";
 
 }
+function myFunction() {
+    alert("Login successfully");
+  }
+$('.submit-btn').click(function() {
+    window.location.href = 'index.html';
+    return false;
+});
 
 /* for when you click out of login or register form, form box disappear */
-var modal = document.getElementsByClassName("submit-btn");
+/* var modal = document.getElementsByClassName("submit-btn");
 window.onclick = function(event)
 {
     if (event.target == modal)
     {
         href = "index.html"
     }
-}
+} */
 
 /* document.getElementsByClassName("submitBtn").addEventListener("click", myFunction);
       function myFunction() {

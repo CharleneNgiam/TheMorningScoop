@@ -175,17 +175,61 @@ nav ul li a.active
 
 }
 
+.experience-points h3{
+    font-size: 25px;
+    color: #0097BC;
+    text-align: center;
+    padding-top: 50px;
+    background-color: white;
+    border-radius: 20px;
+    width: 20%;
+    margin-left: 614px;
+    padding: 6px 15px;
+    box-shadow: 10px 10px 5px lightblue; 
+
+}
+
 /* .read-articles h3:hover{
     box-shadow: 10px 10px 5px lightblue;
 
 } */
-@keyframes fadeIn{
-    to{
-        opacity: 1;
+
+/* fade in animation*/
+/* @keyframes fadeInLeft {
+    from {
+        opacity:0;
+        -webkit-transform: translatex(-100px);
+        -moz-transform: translatex(-100px);
+        -o-transform: translatex(-100px);
+        transform: translatex(-100px);
+    }
+    to {
+        opacity:1;
+        -webkit-transform: translatex(0);
+        -moz-transform: translatex(0);
+        -o-transform: translatex(0);
+        transform: translatex(0);
     }
 }
-.body{
-    opacity: 0;
-    animation: fadeIn 12s ease-in forwards;
+.profile {
+    -webkit-animation-name: fadeInLeft;
+    -moz-animation-name: fadeInLeft;
+    -o-animation-name: fadeInLeft;
+    animation-name: fadeInLeft;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-delay: 1s;
+    -moz-animation-delay: 1s;
+    -o-animation-duration:1s;
+    animation-delay: 2.5s;
 }
+ */
+
+
 

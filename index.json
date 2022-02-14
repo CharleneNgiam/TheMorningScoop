@@ -4,29 +4,172 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNA"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": null,
-            "title": "SMRT Trains faces charge for 2018 accident where train rolled over worker's foot, leading to amputation - CNA",
-            "description": "SINGAPORE: SMRT Trains has been handed a charge over a 2018 workplace accident that required an employee to have the lower part of his leg amputated after a maintenance train rolled over his foot.\r\n\r\nA representative for the train operator and Ministry of Man…",
-            "url": "https://www.channelnewsasia.com/singapore/smrt-workplace-safety-train-roll-over-worker-foot-2485266",
-            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--tUjLLGSU--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/transport-mrt-cars-singapore-08---file-photo.jpg?itok=Ic8jv6aw",
-            "publishedAt": "2022-02-08T04:11:00Z",
-            "content": "SINGAPORE: SMRT Trains has been handed a charge over a 2018 workplace accident that required an employee to have the lower part of his leg amputated after a maintenance train rolled over his foot.\r\nA… [+1630 chars]"
+            "author": "Kate Duffy",
+            "title": "Object set to crash into moon may be China rocket part, not SpaceX - Business Insider",
+            "description": "Astronomer Bill Gray said he had evidence that the rocket part due to hit the moon in March is a Chinese booster, and not from SpaceX's Falcon 9.",
+            "url": "https://www.businessinsider.com/spacex-falcon-rocket-crash-moon-china-spacecraft-mistake-astronomers-space-2022-2",
+            "urlToImage": "https://i.insider.com/620a310fe2fe3c0019ea6518?width=1200&format=jpeg",
+            "publishedAt": "2022-02-14T12:27:35Z",
+            "content": "A rocket part expected to collide with the moon in March didn't come from a spacecraft belonging to Elon Musk's SpaceX, and may instead be a booster from a Chinese launch, an astronomer said.\r\nAstron… [+1732 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Bangkok Post"
+                "name": "InsideHook"
             },
-            "author": "AFP",
-            "title": "Lockheed Martin wins NASA contract to bring Mars samples back to Earth - Bangkok Post",
-            "description": "WASHINGTON: Lockheed Martin's space division has won a NASA contract to build the rocket that will return the first Mars rock samples to Earth in the 2030s, the US space agency said Monday.",
-            "url": "https://www.bangkokpost.com/world/2260739/lockheed-martin-wins-nasa-contract-to-bring-mars-samples-back-to-earth",
-            "urlToImage": "https://static.bangkokpost.com/media/content/20220208/c1_4223247_700.jpg",
-            "publishedAt": "2022-02-08T03:45:00Z",
-            "content": "WASHINGTON: Lockheed Martin's space division has won a NASA contract to build the rocket that will return the first Mars rock samples to Earth in the 2030s, the US space agency said Monday.\r\nThe \"sma… [+1637 chars]"
+            "author": "Tobias Carroll",
+            "title": "Apparently the James Webb Space Telescope Took a Selfie - InsideHook",
+            "description": "The James Webb Space Telescope just took a selfie as part of some initial testing of its capabilities and technology.",
+            "url": "https://www.insidehook.com/daily_brief/science/james-webb-space-telescope-selfie",
+            "urlToImage": "https://www.insidehook.com/wp-content/uploads/2022/02/james-webb-space-telescope.jpg?fit=1024%2C669",
+            "publishedAt": "2022-02-14T11:37:17Z",
+            "content": "Even before it was launched into space, the James Webb Space Telescope has been compared to the Hubble Space Telescope, its predecessor in recording images of deep space. Many articles comparing the … [+1612 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Elizabeth Howell",
+            "title": "Watch Russia launch a fresh cargo ship to the International Space Station today - Space.com",
+            "description": "Liftoff is set for 11:25 p.m. EST (0425 GMT).",
+            "url": "https://www.space.com/russia-progress-80-space-station-cargo-launch",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hxCQRFwLXfPHn5NYdU5jan-1200-80.jpg",
+            "publishedAt": "2022-02-14T11:00:55Z",
+            "content": "A new Russian cargo ship will blast off today (Feb. 14) with tons of supplies and equipment for the Expedition 66 crew of the International Space Station. Here's how you can watch it live.\r\nA Soyuz r… [+2248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": null,
+            "title": "Samsung backtracks on S22, S22 Plus refresh rate claims - Android Authority",
+            "description": "Samsung has made a U-turn on the Galaxy S22 and S22 Plus refresh rate claims. It turns out that these screens don't drop down to 10Hz.",
+            "url": "https://www.androidauthority.com/samsung-s22-s22-plus-refresh-rate-claims-3107985/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/02/Samsung-Galaxy-S22-in-pink-with-display-angled.jpg",
+            "publishedAt": "2022-02-14T10:49:44Z",
+            "content": "<ul><li>Samsung has updated its Galaxy S22 and S22 Plus display specs.</li><li>It turns out that the phone screens can only drop down to 48Hz.</li><li>The company originally claimed that these screen… [+1608 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "Maid jailed for stealing more than S$30000 worth of Tiffany & Co rings and Chanel bags from employer - CNA",
+            "description": "SINGAPORE: A domestic helper who had Sundays off, her own room and a salary of S$750 per month stole luxury handbags and rings worth more than S$30,000 from her employer.\r\n\r\nShe sold the items for cash as she needed money for her son's operation in the Philip…",
+            "url": "https://www.channelnewsasia.com/singapore/maid-jailed-stealing-tiffany-co-rings-chanel-bags-employer-meneses-princess-joy-domingo-2497391",
+            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--jD8U4IqT--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2022/02/14/maid.png?itok=tl0dDcSB",
+            "publishedAt": "2022-02-14T10:38:00Z",
+            "content": "SINGAPORE: A domestic helper who had Sundays off, her own room and a salary of S$750 per month stole luxury handbags and rings worth more than S$30,000 from her employer.\r\nShe sold the items for cash… [+4247 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Video Games Chronicle"
+            },
+            "author": "Chris Scullion",
+            "title": "Yakuza creator Nagoshi shares early info on his new studio’s first game - Video Games Chronicle",
+            "description": "The Yakuza veterans feel story is more important than setting…",
+            "url": "https://www.videogameschronicle.com/news/yakuza-creator-nagoshi-shares-early-info-on-his-new-studios-first-game/",
+            "urlToImage": "https://www.videogameschronicle.com/files/2022/01/nagoshi-studio.jpg",
+            "publishedAt": "2022-02-14T10:18:45Z",
+            "content": "Yakuza creator Toshihiro Nagoshi has been sharing his thoughts on the first game being developed by his new team, Nagoshi Studio.\r\nIn an interview with IGN Japan, the designer made a number of refere… [+3682 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "New COVID-19 treatment facility for children and elderly opens at Singapore Expo - CNA",
+            "description": "SINGAPORE: A new COVID-19 treatment facility catering to children and the elderly began operations at Singapore Expo Hall 9 on Monday (Feb 14).\r\n\r\nThe facility is “designed to take care of the most vulnerable in our community” and has about 600 beds for child…",
+            "url": "https://www.channelnewsasia.com/singapore/covid-19-new-treatment-facility-children-elderly-singapore-expo-moh-ong-ye-kung-2497321",
+            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--FdXpFwR0--/c_crop%2Ch_841%2Cw_1495%2Cx_5%2Cy_159/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2022/02/14/familyroom.jpg?itok=GRzw-gbf",
+            "publishedAt": "2022-02-14T10:05:14Z",
+            "content": "SINGAPORE: A new COVID-19 treatment facility catering to children and the elderly began operations at Singapore Expo Hall 9 on Monday (Feb 14).\r\nThe facility is designed to take care of the most vuln… [+618 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Social gambling to be legalised in Singapore under proposed Bills | THE BIG STORY - The Straits Times",
+            "description": "S'PORE TO ALLOW SOCIAL GAMBLINGPhysical social gambling among family and friends may soon be legalised under new laws proposed in Parliament on Monday (Feb 1...",
+            "url": "https://www.youtube.com/watch?v=8H43LSW1whI",
+            "urlToImage": "https://i.ytimg.com/vi/8H43LSW1whI/maxresdefault.jpg",
+            "publishedAt": "2022-02-14T09:51:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Isabel Baldwin",
+            "title": "Liverpool are 'in talks to face rivals Manchester United and Crystal Palace' in pre-season showdowns - Daily Mail",
+            "description": "Jurgen Klopp's side are said to be in talks, which are at an advanced stage, to travel to Thailand and Singapore in July. to plat Man United and Crystal Palace in friendlies.",
+            "url": "https://www.dailymail.co.uk/sport/football/article-10510407/Liverpool-talks-face-rivals-Manchester-United-Crystal-Palace-pre-season-showdowns.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/02/14/09/54169643-0-image-a-15_1644831258684.jpg",
+            "publishedAt": "2022-02-14T09:36:57Z",
+            "content": "Liverpool are set to face bitter rivals Manchester United and Crystal Palace in pre-season friendlies held in the Far East, according to reports.\r\nJurgen Klopp's side are said to be in talks, which a… [+1973 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": null,
+            "title": "Apple registers three new Macs in Eurasian database ahead of rumored March event - 9to5Mac",
+            "description": "As spotted by Consomac, Apple has registered three new Macs in the Eurasian regulatory database. The new model numbers are A2615, A2686, and A2681. One of these models is described as a laptop. A couple of weeks ago, we also saw the Eurasian database register…",
+            "url": "https://9to5mac.com/2022/02/14/apple-registers-three-new-macs-in-eurasian-database-ahead-of-rumored-march-event/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/MacBook-Pro-2020-Review-unboxed.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-02-14T09:23:00Z",
+            "content": "As spotted by Consomac, Apple has registered three new Macs in the Eurasian regulatory database. The new model numbers are A2615, A2686, and A2681. One of these models is described as a laptop.\r\nA co… [+1594 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Weizhen Tan",
+            "title": "'Very robust growth:' CEO of Singapore's largest bank says 2021 was one of the best years - CNBC",
+            "description": "The bank on Monday reported its full-year net profit rose 44% to a record of 6.8 billion Singapore dollars ($5.04 billion).",
+            "url": "https://www.cnbc.com/2022/02/14/dbs-ceo-piyush-gupta-on-fourth-quarter-earnings-shareholder-dividends.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106876328-1619745508516-gettyimages-1155823729-BC_HKStreetStock__2139.jpeg?v=1644822647",
+            "publishedAt": "2022-02-14T08:46:48Z",
+            "content": "Singapore's largest lender DBS Group reported a record full-year profit for 2021, and its CEO Piyush Gupta told CNBC last year was \"one of the best years\" he's seen.\r\n\"That has been a solid year, per… [+1908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "ComfortDelGro clinches S$20m contract to run electric shuttle bus services at NTU from September - CNA",
+            "description": "SINGAPORE: Transport giant ComfortDelGro will operate a fleet of about 20 electric buses at the Nanyang Technological University (NTU) campus from September. \r\n\r\nThe \"multi-year contract\", valued at about S$20 million, will see ComfortDelGro Bus serve four ro…",
+            "url": "https://www.channelnewsasia.com/singapore/comfortdelgro-contract-electric-shuttle-bus-services-ntu-2497111",
+            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--sp0wec0Q--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2022/02/14/comfortdelgro_bus_wins_second_multi-million_tender_to_operate_electric_shuttle_bus_services_at_ntu.jpg?itok=LLtptbN6",
+            "publishedAt": "2022-02-14T08:31:53Z",
+            "content": "We are excited and grateful that NTU has given us the vote of confidence to operate their shuttle services,\" said ComfortDelGro Bus CEO Stephen Chow, adding that the company intends to roll out \"stat… [+1657 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Jacob Stolworthy",
+            "title": "Doctor Strange 2 trailer: Marvel fans react to huge X-Men moment as mutants arrive in MCU - The Independent",
+            "description": "‘I know that voice anywhere!’ one excited fan wrote",
+            "url": "https://www.independent.co.uk/arts-entertainment/films/news/doctor-strange-2-super-bowl-trailer-professor-x-b2014493.html",
+            "urlToImage": "https://static.independent.co.uk/2022/02/13/23/newFile-3.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-02-14T07:44:18Z",
+            "content": "Marvel fans have been left reeling by what appears to be an X-Men character in the newDoctor Strange 2 trailer.\r\nMarvel dropped a brand new look at Doctor Strange in the Multiverse of Madness ahead o… [+1526 chars]"
         },
         {
             "source": {
@@ -34,12 +177,25 @@
                 "name": "The Straits Times"
             },
             "author": "Hermes Auto",
-            "title": "ComfortDelGro to raise cab fares by around 8% in March - The Straits Times",
-            "description": "The starting fare of a Hyundai i40 cab will go up to $3.90, and fares for other vehicle types will start at $4.10.\n. Read more at straitstimes.com.",
-            "url": "https://www.straitstimes.com/singapore/transport/comfortdelgro-raises-cab-fares-by-around-8",
-            "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/02/08/md_taxis_08022022.jpg?VersionId=gRKehQD0PViz6M7WE6ONlgS4IMxQ23ZY",
-            "publishedAt": "2022-02-08T03:09:30Z",
-            "content": "SINGAPORE - Leading taxi group ComfortDelGro will raise cab fares from March 1 - its first fare increase in a decade.\r\nConfirming a report by The Straits Times two weeks ago, the listed company, whic… [+2948 chars]"
+            "title": "Actress Rui En tests positive for Covid-19, says she felt 'relief' - The Straits Times",
+            "description": "The actress said her symptoms “were incredibly mild”.\n. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/life/entertainment/actress-rui-en-tests-positive-for-covid-19-says-she-felt-relief",
+            "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/02/14/mi_ruien_140222.jpg?VersionId=9fP4B9SZHF.UZe7qfTL8nT1MaArDTMno",
+            "publishedAt": "2022-02-14T06:42:38Z",
+            "content": "SINGAPORE - Actress Rui En said she tested positive for Covid-19 last week but that her symptoms \"were incredibly mild\".\r\nIn an Instagram post on Sunday (Feb 13) evening, she said she was \"blessed th… [+1085 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "Temporary electricity contracts scheme extended until May amid rising global gas prices - CNA",
+            "description": "SINGAPORE: A scheme that offers one-month fixed price electricity plans to large consumers has been further extended through May, as global gas prices continue to rise to record levels amid unprecedented volatility in the electricity market.\r\n\r\nIn a media rel…",
+            "url": "https://www.channelnewsasia.com/singapore/temporary-electricity-contracts-scheme-extended-until-may-amid-rising-global-gas-prices-2496811",
+            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--J4pGey40--/c_crop%2Ch_843%2Cw_1500%2Cx_0%2Cy_43/fl_relative%2Cg_south_east%2Cl_mediacorp:cna:watermark:2021-08:cna%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2021/10/28/hdb_blocks_at_night_in_toa_payoh_03.jpg?itok=4NYBZGrh",
+            "publishedAt": "2022-02-14T06:23:00Z",
+            "content": "SINGAPORE: A scheme that offers one-month fixed price electricity plans to large consumers has been further extended through May, as global gas prices continue to rise to record levels amid unprecede… [+2958 chars]"
         },
         {
             "source": {
@@ -47,220 +203,39 @@
                 "name": "The Straits Times"
             },
             "author": "Hermes Auto",
-            "title": "Apple buys start-up that makes music with artificial intelligence - The Straits Times",
-            "description": "The technology could be used across its slate of audio offerings.\n. Read more at straitstimes.com.",
-            "url": "https://www.straitstimes.com/business/companies-markets/apple-buys-startup-that-makes-music-with-artificial-intelligence",
-            "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/02/08/AK_apla_080222.jpg?VersionId=OetyU6q3jeIEUBh2Qi.P4haJCG1kIqO3",
-            "publishedAt": "2022-02-08T02:51:29Z",
-            "content": "LOS ANGELES (BLOOMBERG) - Apple acquired a start-up called AI Music that uses artificial intelligence to generate tailor-made music, according to a source with knowledge of the matter, adding technol… [+1568 chars]"
+            "title": "Pump prices post double-digit increases in two weeks on the back of costlier oil - The Straits Times",
+            "description": "Petrol prices have gone up by between five and 10 cents.\n. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/singapore/transport/pump-prices-post-double-digit-increases-in-two-weeks-driven-by-higher-crude-oil-costs",
+            "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/02/14/AK_ptr_140222.jpg?VersionId=4VT6g2AnRs5uP1D6IXrrHQuNO99u4SkH",
+            "publishedAt": "2022-02-14T05:00:19Z",
+            "content": "SINGAPORE - Pump prices have risen again, up by as much as 11 cents a litre in the latest adjustment, driven by higher crude oil and product costs.\r\nAccording to Fuel Kaki, a petrol and diesel price … [+2174 chars]"
+        },
+
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Jacob Stolworthy",
+            "title": "Lord of the Rings: The Rings of Power trailer – prequel series footage stuns Super Bowl 2022 viewers - The Independent",
+            "description": "‘Before the King, before the Fellowship, before the Ring’",
+            "url": "https://www.independent.co.uk/arts-entertainment/tv/news/lord-of-the-rings-trailer-rings-of-power-super-bowl-b2014402.html",
+            "urlToImage": "https://static.independent.co.uk/2022/02/14/01/newFile-11.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-02-14T04:19:33Z",
+            "content": "Lord of the Rings fans tuned into Super Bowl 2022 just to watch the trailer for Amazons new series and they werent disappointed.\r\nLater this year, the streaming service will release The Lord of the R… [+2342 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "AsiaOne"
+                "name": "The Straits Times"
             },
-            "author": null,
-            "title": "'Drive carefully can or not?' Bus passengers pull down masks to eat ice cream, taunt driver - AsiaOne",
-            "description": "A group of people were caught on video taunting a bus driver. Stomp contributor Morpheus said that the man, two women and a toddler in a stroller boarded bus service 72 from Tampines Interchange on Feb 1 at about 9.35pm. \"They started verbally abusing the dri…",
-            "url": "https://www.asiaone.com/singapore/drive-carefully-can-or-not-bus-passengers-pull-down-masks-eat-ice-cream-taunt-driver",
-            "urlToImage": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2022/20220208_lady_stomp.jpg?h=514556e9&itok=xPDgFp7L",
-            "publishedAt": "2022-02-08T01:58:49Z",
-            "content": "A group of people were caught on video taunting a bus driver.\r\nStomp contributor Morpheus said that the man, two women and a toddler in a stroller boarded bus service 72 from Tampines Interchange on … [+975 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Science Daily"
-            },
-            "author": null,
-            "title": "Beyond sci-fi: Manipulating liquid metals without contact: Look Ma. No hands! - Science Daily",
-            "description": "Research inspired by Terminator 2's shape-shifting, liquid metal robot sees liquid-metal electrical conductors manipulated in mid-air without contact. The liquid wires can be controlled to move in any direction, and manipulated into unique, levitated shapes s…",
-            "url": "https://www.sciencedaily.com/releases/2022/02/220207172949.htm",
-            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-            "publishedAt": "2022-02-07T22:48:53Z",
-            "content": "In a landmark discovery, FLEET University of Wollongong (UOW) researchers have realised the non-contact manipulation of liquid metal.The metals can be controlled to move in any direction, and manipul… [+4658 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNA"
-            },
-            "author": null,
-            "title": "WTA says latest Peng Shuai interview does not ease concerns about her safety - CNA",
-            "description": "A recent interview in which Peng Shuai denied accusing anyone of sexual assault has done little to address concerns about the Chinese player's safety, the Women's Tennis Association (WTA) reaffirmed on Monday (Feb 7).\r\n\r\nPeng, a former doubles world number on…",
-            "url": "https://www.channelnewsasia.com/sport/wta-says-latest-peng-shuai-interview-does-not-ease-concerns-about-her-safety-2484871",
-            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--q5ncK8qO--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-07t201957z_1_lynxmpei1611v_rtroptp_3_olympics-2022-ioc.jpg?itok=wGuwi6EF",
-            "publishedAt": "2022-02-07T20:19:00Z",
-            "content": "A recent interview in which Peng Shuai denied accusing anyone of sexual assault has done little to address concerns about the Chinese player's safety, the Women's Tennis Association (WTA) reaffirmed … [+1579 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Science Daily"
-            },
-            "author": null,
-            "title": "Nanowires under tension create the basis for ultrafast transistors - Science Daily",
-            "description": "Nanowires have a unique property: These ultra-thin wires can sustain very high elastic strains without damaging the crystal structure of the material. A team of researchers has now succeeded in experimentally demonstrating that electron mobility in nanowires …",
-            "url": "https://www.sciencedaily.com/releases/2022/02/220207112656.htm",
-            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-            "publishedAt": "2022-02-07T17:50:43Z",
-            "content": "Smaller chips, faster computers, less energy consumption. Novel concepts based on semiconductor nanowires are expected to make transistors in microelectronic circuits better and more efficient. Elect… [+4981 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheRecord.com"
-            },
-            "author": null,
-            "title": "Q&A with Waterloo expert on new COVID-19 drug - TheRecord.com",
-            "description": "Paxlovid is first oral medication taken at home to treat people with mild illness",
-            "url": "https://www.therecord.com/news/waterloo-region/2022/02/07/qa-with-waterloo-expert-on-new-covid-19-drug.html",
-            "urlToImage": "https://images.thestar.com/sdpOv8_Ni14aeRDjpMDjsXJO5S4=/1200x801/smart/filters:cb(1644255521103)/https://www.therecord.com/content/dam/therecord/news/waterloo-region/2022/02/07/qa-with-waterloo-expert-on-new-covid-19-drug/paxlovid.jpg",
-            "publishedAt": "2022-02-07T17:42:29Z",
-            "content": "WATERLOO — The first oral medication to treat COVID-19 at home has been approved by Health Canada.\r\nDoses of Pfizer’s Paxlovid are already being distributed across Ontario and Canada to treat people … [+3317 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TODAYonline"
-            },
-            "author": null,
-            "title": "Explainer: Why did oil prices go from less than zero to a multi-year high? - TODAY",
-            "description": "SINGAPORE — For a brief period in early 2020, one ticker representing oil prices plunged to its lowest point in decades, while another even became negative.",
-            "url": "https://www.todayonline.com/singapore/explainer-why-did-oil-prices-go-less-zero-multi-year-high-1812806",
-            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--NmltGWBz--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/02/08/20220207_afp_oil.jpg?itok=98q83QgI",
-            "publishedAt": "2022-02-07T15:34:00Z",
-            "content": "SINGAPORE For a brief period in early 2020, one ticker representing oil prices plunged to its lowest point in decades, while another even became negative.\r\nAs the Covid-19 pandemic grounded planes, h… [+8064 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cloudfront.net"
-            },
-            "author": "CNN, NASA, ESA, WARNER BROS, DAILY MAIL, DEPT OF DEFENSE, NATO, ASTROSCALE, SPACEWERX",
-            "title": "White House looks to clean up space debris - WFSB",
-            "description": "The White House is starting to address the debris it has left in space.",
-            "url": "https://d1l66zlxaqpl1u.cloudfront.net/wp-gray/CNN_NASA_ESA_WARNER_BROS_DAILY_MAIL_DEPT_OF_DEFENSE_NATO_ASTROSCALE_SPACEWERX/20220207/62012c06c9e77c00011dbbd4/a36d990d-a519-420a-8616-f35cce997a43/t_7b3ef4f6f13648f9916e1eca283bc91d_name_BHDP_NA_21MO_WHITE_HOUSE_LOOKS_TO__f64604bd_cc19_4422_aec5_11a7a5ee8df6/file_1280x720-2000-v3_1.mp4",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/a/e5/ae556cb3-8eff-56aa-860c-111244d5c534/6201492e44fe2.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2022-02-07T15:31:52Z",
-            "content": "Keep it Clean. Please avoid obscene, vulgar, lewd,\r\nracist or sexually-oriented language.PLEASE TURN OFF YOUR CAPS LOCK.Don't Threaten. Threats of harming another\r\nperson will not be tolerated.Be Tru… [+306 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Medscape"
-            },
-            "author": "Marlene Busko, for Medscape",
-            "title": "Early Gestational Diabetes Screening Falls Short - Medscape",
-            "description": "Using the WHO 2013 diagnostic threshold for gestational diabetes for an oral glucose tolerance test is not sensitive or accurate enough for early screening at gestational week 12-15.",
-            "url": "https://www.medscape.com/viewarticle/967967",
-            "urlToImage": "https://img.medscape.com/thumbnail_library/dt_220202_gestational_diabetes_800x450.jpg",
-            "publishedAt": "2022-02-07T14:41:46Z",
-            "content": "The study covered in this summary was published in Preprints With The Lancet and has not yet been peer reviewed.\r\nKey Takeaways\r\n<ul><li>Oral glucose tolerance tests (OGTTs) for gestational diabetes … [+2969 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Espn.com.sg"
-            },
-            "author": "Reuters",
-            "title": "Man United record biggest transfer loss, spending €1bn on players - ESPN",
-            "description": "Manchester United have been named the club with the biggest transfer losses in the last decade, splashing out more than €1 billion on players.",
-            "url": "https://www.espn.com.sg/football/manchester-united-engman_utd/story/4588675/man-united-record-biggest-transfer-lossspending-1bn-on-players",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0201%2Fr968579_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-02-07T14:25:00Z",
-            "content": "Manchester United have been named the club with the biggest transfer losses in the last decade, splashing out more than 1 billion ($1.14bn) on players.\r\nA study published by Switzerland-based indepen… [+1897 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TODAYonline"
-            },
-            "author": null,
-            "title": "MAS orders DBS to set aside extra S$930m in capital after widespread digital banking outage in November - TODAY",
-            "description": "SINGAPORE — Following a major disruption to DBS bank's digital banking services last November, the Monetary Authority of Singapore (MAS) has imposed an extra capital requiremen",
-            "url": "https://www.todayonline.com/singapore/mas-orders-dbs-set-aside-extra-s930m-capital-after-widespread-digital-banking-outage-november-1812791",
-            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--4qYLMMbj--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/02/07/20220207_today_dbs.jpg?itok=Pq9d0VJH",
-            "publishedAt": "2022-02-07T13:16:00Z",
-            "content": "SINGAPORE Following a major disruption to DBS bank's digital banking services last November, the Monetary Authority of Singapore (MAS) has imposed an extra capital requirement for the bank to set asi… [+2975 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "International Business Times"
-            },
-            "author": "Meera Suresh",
-            "title": "103-Year-Old Woman Dies 25 Days After Accidentally Being Given Fourth COVID-19 Vaccine; Investigation On - International Business Times",
-            "description": "The woman, a nursing home resident, fell ill three days later, and was shifted to a hospital.",
-            "url": "https://www.ibtimes.com/103-year-old-woman-dies-25-days-after-accidentally-being-given-fourth-covid-19-3391524",
-            "urlToImage": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/philippine-health-officials-hope-the-success-of-the.jpg",
-            "publishedAt": "2022-02-07T12:20:05Z",
-            "content": "KEY POINTS\r\n<ul><li>The autopsy said the main cause of the woman's death was pneumonia</li><li>Doctors said she also suffered from coronary artery disease and stroke </li><li>It is unclear whether th… [+2505 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AsiaOne"
-            },
-            "author": null,
-            "title": "Fann Wong releasing bilingual children's picture books she illustrated - AsiaOne",
-            "description": "Actress, model, mother, home baker and illustrator extraordinaire Fann Wong will be releasing two of four bilingual children's picture books that she wrote and illustrated on Thursday (Feb 10). Aside from starting her bakery Fanntasy during the Covid-19 pande…",
-            "url": "https://www.asiaone.com/entertainment/fann-wong-releasing-bilingual-childrens-picture-books-she-illustrated",
-            "urlToImage": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2022/070222_fannwongbook2_instagram.jpg?h=52494307&itok=QQwK-vRT",
-            "publishedAt": "2022-02-07T11:07:00Z",
-            "content": "Actress, model, mother, home baker and illustrator extraordinaire Fann Wong will be releasing two of four bilingual children's picture books that she wrote and illustrated on Thursday (Feb 10).\r\nAsid… [+3226 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AsiaOne"
-            },
-            "author": null,
-            "title": "Does Wearing a Hat Effect Hair Loss Problem? - AsiaOne",
-            "description": "Can wearing a hat really rub the hair follicles on your head so much that it causes your hair to fall out? Possibly, but there’s not much science to support the idea. Mystic, United States - February 7, 2022 /MarketersMEDIA/ — Can wearing a hat really rub the…",
-            "url": "https://www.asiaone.com/business/does-wearing-hat-effect-hair-loss-problem",
-            "urlToImage": null,
-            "publishedAt": "2022-02-07T11:04:55Z",
-            "content": "Can wearing a hat really rub the hair follicles on your head so much that it causes your hair to fall out? Possibly, but theres not much science to support the idea.\r\nMystic, United States - February… [+3627 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AsiaOne"
-            },
-            "author": null,
-            "title": "Fire breaks out in Woodlands flat; 50 residents evacuated - AsiaOne",
-            "description": "SINGAPORE - About 50 residents were evacuated after a fire broke out in a Housing Board flat in Woodlands on Monday (Feb 7). The Singapore Civil Defence Force (SCDF) said in a Facebook post on Monday that it was alerted to the fire at Block 688F Woodlands Dri…",
-            "url": "https://www.asiaone.com/singapore/fire-breaks-out-woodlands-flat-50-residents-evacuated",
-            "urlToImage": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2022/20220207_fire_scdf.jpg?h=0429cc9e&itok=mumlUzBZ",
-            "publishedAt": "2022-02-07T10:41:59Z",
-            "content": "SINGAPORE - About 50 residents were evacuated after a fire broke out in a Housing Board flat in Woodlands on Monday (Feb 7).\r\nThe Singapore Civil Defence Force (SCDF) said in a Facebook post on Monda… [+625 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Post Magazine"
-            },
-            "author": null,
-            "title": "Zhu Yi falls again, cries during routine as online criticism intensifies - South China Morning Post",
-            "description": "China’s US-born figure skater, 19, says ‘I couldn’t hold it back’ after stumbling twice more at the Beijng Winter Olympics on Monday.",
-            "url": "https://www.scmp.com/sport/china/article/3166122/winter-olympics-chinas-us-born-figure-skater-zhu-yi-falls-again-cries",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/beijing_olympic_2022_generic/public/d8/images/canvas/2022/02/07/7788d835-de11-4917-95a2-f5c7440cbd5f_85dfdcf7.jpg?itok=gc_mnEQB&v=1644229637",
-            "publishedAt": "2022-02-07T10:27:19Z",
-            "content": "Published: 6:27pm, 7 Feb, 2022\r\nUpdated: 7:56pm, 7 Feb, 2022"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNA"
-            },
-            "author": null,
-            "title": "Jail for man who cheated Bank of East Asia into issuing him S$3 million loan in market manipulation scheme - CNA",
-            "description": "SINGAPORE: A man was jailed eight months on Monday (Feb 7) for deceiving the Bank of East Asia into giving him a S$3 million loan under a share financing facility, which he was later unable to pay back.\r\n\r\nThe deception by Joel Aloysius Choy Kwok Shing, 37, w…",
-            "url": "https://www.channelnewsasia.com/singapore/skyone-shares-bank-east-asia-maybank-cheat-loan-3-million-2483816",
-            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--Q853wtZB--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2022/02/07/austin-distel-dfjjmvhwh_8-unsplash.jpg?itok=FYfLdx2T",
-            "publishedAt": "2022-02-07T10:18:01Z",
-            "content": "SINGAPORE: A man was jailed eight months on Monday (Feb 7) for deceiving the Bank of East Asia into giving him a S$3 million loan under a share financing facility, which he was later unable to pay ba… [+5037 chars]"
+            "author": "Hermes Auto",
+            "title": "New Friday 5% discount for essential items at FairPrice supermarkets from March 4 - The Straits Times",
+            "description": "A programme to provide free meals for the needy and a budget meal initiative at Kopitiam and Foodfare outlets are in the pipeline.\n. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/singapore/new-friday-5-discount-for-essential-items-at-fairprice-supermarkets-from-march-4",
+            "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/02/14/af_fairpriceveges_140222.jpg?VersionId=dWSygHyTY0.CnFrfzvOj66hMgUzCkpCi",
+            "publishedAt": "2022-02-14T02:58:21Z",
+            "content": "SINGAPORE - The public can get a 5 per cent discount for 100 daily staples such as rice, oil and vegetables every Friday at all FairPrice supermarkets and hypermarkets, starting from March 4.\r\nThis i… [+2670 chars]"
         }
     ]
 }

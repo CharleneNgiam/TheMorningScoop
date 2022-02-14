@@ -83,6 +83,7 @@ nav{
     top: 0;
     width: 100%;
     background-color: #72C2D6;
+    z-index: 500;
 }
 
 nav ul{
@@ -142,7 +143,7 @@ nav ul li a.active
     height:480px;
     position: relative;
     margin: 2% auto;
-    background: #72C2D6;
+    background: #8fd8eb;
     border-radius: 30px;
     padding: 10px;
     overflow: hidden;
@@ -152,7 +153,7 @@ nav ul li a.active
     width: 220px;
     margin: 35x auto;
     position: relative; 
-    box-shadow: 0 0 15px 6px lightblue;
+    box-shadow: 0 0 15px 6px rgb(212, 231, 238);
     border-radius: 30px;
     margin-top: 50px;
     margin-left: 60px;
@@ -173,7 +174,7 @@ nav ul li a.active
     position: absolute;
     width: 110px;
     height:100%;
-    background: #abe3f1;
+    background: #72C2D6;
     border-radius: 30px;
     transition: .5s;
 }
@@ -210,7 +211,7 @@ nav ul li a.active
     cursor: pointer;
     display: block;
     margin: auto;
-    background: #abe3f1;
+    background: #72C2D6;
     border: 0;
     outline: none;
     border-radius: 30px;
@@ -244,4 +245,40 @@ span{
 #register input{
     color: black;
     font-size: 15px;
+} 
+
+
+@keyframes fadeInLeft {
+    from {
+        opacity:0;
+        -webkit-transform: translatex(-100px);
+        -moz-transform: translatex(-100px);
+        -o-transform: translatex(-100px);
+        transform: translatex(-100px);
+    }
+    to {
+        opacity:1;
+        -webkit-transform: translatex(0);
+        -moz-transform: translatex(0);
+        -o-transform: translatex(0);
+        transform: translatex(0);
+    }
+}
+.login-page {
+    -webkit-animation-name: fadeInLeft;
+    -moz-animation-name: fadeInLeft;
+    -o-animation-name: fadeInLeft;
+    animation-name: fadeInLeft;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-delay: 1s;
+    -moz-animation-delay: 1s;
+    -o-animation-duration:1s;
+    animation-delay: 2.3s;
 } 

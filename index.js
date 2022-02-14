@@ -11,9 +11,7 @@ document.addEventListener("DOMContentLoaded", (e)=>{
 
 /* for the top news article to appear from api*/
 $(document).ready(function(){
-
-  let url = "https://newsapi.org/v2/top-headlines?country=sg&apiKey=784219b208334c7a9c94e2d8ab4a2d20";
-
+  let url = "index.json"
   $.ajax({
     url:url,
     method:"GET",
@@ -22,38 +20,43 @@ $(document).ready(function(){
     success: function(news){
       let output = "";
       let latestNews = news.articles;
+      /* let img = news.urlToImage; */
 
       for(var i in latestNews){
-        output +=`
-          <div class="col 13 m6 s12">
+        /* if (img !== ""){ */
+          output +=`
+            <div class="col 13 m6 s12">
           
-            <h3 class=news>${latestNews[i].title}</h3>
-            <div class="card-image">
-              <img src="${latestNews[i].urlToImage}" class="responsive-img">
-            </div>
-            <div class="link">
-            <a href="${latestNews[i].url}">Read more</a>
-            </div>
+              <h3 class=news>${latestNews[i].title}</h3>
+              <div class="card-image">
+                <img src="${latestNews[i].urlToImage}" class="responsive-img">
+              </div> 
+              <div class="link">
+              <a href="${latestNews[i].url}">Read more</a>
+              </div>
             
             
-          </div>
+            </div>
           
-        `;
+          `;
       
+        
       }
 
-      if(output !== ""){
+      if(output !== "" ){
         $("#newsResults")
         .html(output)
         
       }
+
+      
 
     },
     error: function(){
       $("#newsResults").html("Some error occured");
 
     }
-  })
+  }) 
 
 
 });

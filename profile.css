@@ -22,7 +22,7 @@
     width: 100%;
     height: 100vh;
     background: #D2F7FA;
-    z-index: 200;
+    z-index: 510;
     color: #72C2D6;
     text-align: center;
     line-height: 90vh;
@@ -188,6 +188,16 @@ nav ul li a.active
     box-shadow: 10px 10px 5px lightblue; 
 
 }
+
+
+.mascot{
+    position: fixed;
+    margin-left: 60px;
+    margin-top: 140px;
+    display: flex;
+}
+
+
 
 /* .read-articles h3:hover{
     box-shadow: 10px 10px 5px lightblue;

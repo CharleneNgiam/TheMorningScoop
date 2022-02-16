@@ -27,9 +27,22 @@ function Login()
     z.style.left="0px";
 
 }
-function myFunction() {
-    alert("Login successfully");
+
+
+/* function myFunction() {
+  var x = document.forms["myForm"]["fname"].value;
+  if (x == "" || x == null) {
+    alert("Name must be filled out");
+    return false;
   }
+} */
+function myFunction() {
+  var a = document.getElementsByClassName("input-field");
+  if (a == "" || a == null){
+    alert("Login successfully");
+    return false;
+  }
+}
 $('.submit-btn').click(function() {
     window.location.href = 'index.html';
     return false;

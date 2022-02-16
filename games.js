@@ -114,3 +114,5 @@ function checkAnswer(){
 
 
 displayQuestion();
+
+

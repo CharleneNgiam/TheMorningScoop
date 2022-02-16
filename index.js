@@ -20,10 +20,9 @@ $(document).ready(function(){
     success: function(news){
       let output = "";
       let latestNews = news.articles;
-      /* let img = news.urlToImage; */
 
       for(var i in latestNews){
-        /* if (img !== ""){ */
+  
           output +=`
             <div class="col 13 m6 s12">
           
@@ -34,10 +33,7 @@ $(document).ready(function(){
               <div class="link">
               <a href="${latestNews[i].url}">Read more</a>
               </div>
-            
-            
             </div>
-          
           `;
       
         
@@ -61,14 +57,6 @@ $(document).ready(function(){
 
 });
 
-$(document).ready(function(){
-  $('.content').click(function(){
-    $('.content').toggleClass("heart-active")
-    $('.text').toggleClass("heart-active")
-    $('.numb').toggleClass("heart-active")
-    $('.heart').toggleClass("heart-active")
-  });
-});
 
 
 

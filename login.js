@@ -36,17 +36,20 @@ function Login()
     return false;
   }
 } */
-function myFunction() {
+/* function myFunction() {
   var a = document.getElementsByClassName("input-field");
   if (a == "" || a == null){
     alert("Login successfully");
     return false;
   }
+} */
+function myFunction(){
+  alert("Login successfully!");
 }
 $('.submit-btn').click(function() {
     window.location.href = 'index.html';
     return false;
-});
+}); 
 
 /* for when you click out of login or register form, form box disappear */
 /* var modal = document.getElementsByClassName("submit-btn");

@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="index.css" rel="stylesheet" type="text/css" />
     <title>The Morning Scoop</title>
 </head>
 <body>
@@ -20,11 +19,6 @@
         <button>add comment</button>
         <div class="comments">
         </div>
-    </div>
-    <div>
-        <a href="forum.html">
-        <img src="images/back.png" class="back" width="70" height="70" >
-        </a>
     </div>
     <script src="data.js"></script>
     <script>
@@ -76,7 +70,7 @@
             var comment = {
                 content: txt.value,
                 date: Date.now(),
-                author: 'Rolene'
+                author: 'Aaron'
             }
             addComment(comment);
             txt.value = '';
@@ -133,9 +127,6 @@
         }
         .comment-ts {
             padding-left: 10px;
-        }
-        .back{
-            margin-top: 70px;
         }
     </style>
 </body>

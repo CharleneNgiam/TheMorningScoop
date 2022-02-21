@@ -1,5 +1,6 @@
 # TheMorningScoop
 IP Project 
+
 TheMorningScoop
 A news website application attract and encourage people to read more news, as well as educating users to differentiate
 real and fake news. 
@@ -7,7 +8,7 @@ We have designed to whole application, incorporating appealing visuals, gamifica
 most importantly, not boring to attract users to use the application. 
 
 
-Essentially, this part is your sales pitch.
+<!-- Essentially, this part is your sales pitch. -->
 
 Design Process
 Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -17,11 +18,31 @@ In particular, as part of this section we recommend that you provide a list of U
 As a user type, I want to perform an action, so that I can achieve a goal.
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
 
-Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+<!-- Features
+In this section, you should go over the different parts of your project, and describe each in a sentence or so. -->
+Existing Features:
 
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
+nav bar - in every page for you to navigate, simply click on the page you want to go and it will lead you to the page.
+
+Home page - you will be able to read the top news headlines, with the title, image and the url under the read more button. Clicking on the read more button will bring you to the article for you to read the news.
+
+News page - all news article is differenciate into 7 categories. you can scroll down to look for articles you are interested, or simply click on the name of the category you are interested in and it will lead you the to all articles that are related to the category. It has the same format as home page, click read more to lead to the actual article.
+
+Fake news page - this page is to teach you what to do when you read a news, so that you can identify what news are real and fake. DO remember the details as there is a quiz in games page that will be testing you on the steps.
+
+Games page - the top part of the page consist of the leaderboard, get yourself up there to win amazing prizes. The leaderboard consist of the top 10 users with the most experience points. 
+Below part of the page is the quiz, where you can do the quiz that is based off what you learned from the fake news page. The bottom of the quiz will show which question you are at. Whenever you click a correct answer, the background of what you click will turn green, if not it will turn red. At the end of the quiz, you will get your scoring, you can click check answers to check what you did right and wrong. If not, you can just click back to quiz which will bring you back to the start of the quiz.
+
+Login page - there is register and login for you to choose, if you have already created a account simply click login and fill in your email and password (you can choose to remember password if you want) to login. If not, choose register to sign up for an account. When you sucessfully login, it will show a pop-up message informing you that you have successfully login. 
+
+Profile page - this page will show your profile, the amount of articles you read, number of quiz attempted, and your experience points. Moving downwards, it will show the rewards you can possibly win if you are in the top 10 leaderboard. You can interact with the rewards by using yr cursor to turn them, if not it will turn by itself.
+
+
+
+
+
+
+
 ...
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 

@@ -132,20 +132,22 @@ nav ul li a.active
     padding-left: 1px;
 }
 
+/* placement for profile image above account name */
 .image{
-    position: absolute;
     width: 250px;
     height:250px;
-    top: 15%;
-    left: 643px;
+    margin-top: 10%;
+    margin-left: 635px;
+    z-index: 200px;
     
 }
 
+/* styling for profile name */
 .profile h3{
     font-size: 30px;
     color: #0097BC;
     text-align: center;
-    padding-top: 350px;
+    padding-top: 10px;
 }
 
 .quiz-attempts h3{
@@ -198,48 +200,32 @@ nav ul li a.active
 }
 
 
-
-/* .read-articles h3:hover{
-    box-shadow: 10px 10px 5px lightblue;
-
-} */
-
-/* fade in animation*/
-/* @keyframes fadeInLeft {
-    from {
-        opacity:0;
-        -webkit-transform: translatex(-100px);
-        -moz-transform: translatex(-100px);
-        -o-transform: translatex(-100px);
-        transform: translatex(-100px);
-    }
-    to {
-        opacity:1;
-        -webkit-transform: translatex(0);
-        -moz-transform: translatex(0);
-        -o-transform: translatex(0);
-        transform: translatex(0);
-    }
+model-viewer{
+    width: 900px;
+    height: 300px;
+    margin-left: 320px;
+    
 }
-.profile {
-    -webkit-animation-name: fadeInLeft;
-    -moz-animation-name: fadeInLeft;
-    -o-animation-name: fadeInLeft;
-    animation-name: fadeInLeft;
-    -webkit-animation-fill-mode: both;
-    -moz-animation-fill-mode: both;
-    -o-animation-fill-mode: both;
-    animation-fill-mode: both;
-    -webkit-animation-duration: 1s;
-    -moz-animation-duration: 1s;
-    -o-animation-duration: 1s;
-    animation-duration: 1s;
-    -webkit-animation-delay: 1s;
-    -moz-animation-delay: 1s;
-    -o-animation-duration:1s;
-    animation-delay: 2.5s;
+
+.rewards h1 {
+    font-size: 45px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: black;
+
 }
- */
 
-
+.rewards h2 {
+    font-size: 35px;
+    color: #0097BC;
+    text-align: center;
+    padding-top: 70px;
+    background-color: white;
+    border-radius: 20px;
+    width: 20%;
+    margin-left: 614px;
+    padding: 6px 15px;
+    box-shadow: 10px 10px 5px lightblue; 
+}
 

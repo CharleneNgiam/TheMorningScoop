@@ -60,13 +60,3 @@ $(document).ready(function(){
 
 
 
-/* let url = "https://newsapi.org/v2/top-headlines?country=sg&apiKey=784219b208334c7a9c94e2d8ab4a2d20";
-
-
-fetch(url)
-  .then(response => response.json())
-  .then(function(data){
-    $("#newsResults").html("");
-    $("#newsResults").html(data.articles[0].title+data.articles[0].urlToImage);
-
-  }) */

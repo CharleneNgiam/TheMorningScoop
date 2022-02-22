@@ -51,6 +51,7 @@
     font-size: 40px;
 }
 
+/*for splash page to fade in and appear a few seconds*/
 @keyframes fadeIn{
     to{
         opacity: 1;
@@ -61,19 +62,18 @@
     opacity: 0;
     animation: fadeIn 1s ease-in forwards;
 }
-
+/* for lottie animation that are in splash page*/
 .animation-center{  
     display: flex;
     justify-content: center;
     align-items: center;
     padding-bottom: 100%;
-    height: 1vh ; /*if we only want this item to be smack center*/
+    height: 1vh ; 
 }
 
 
 
 /* for navigation bar in home page */
-
 
 nav{
     display: flex;
@@ -88,7 +88,6 @@ nav{
 nav ul{
     flex: 1;
     text-align: right;
-    /* padding-left: 600px; */
 }
 
 nav ul li{
@@ -96,8 +95,6 @@ nav ul li{
     list-style: none;
     margin: 0 10px;
     font-size: 18px;
-    /* padding-bottom: 25px; */
-    /* padding-top: 20px; */
 } 
 
 nav ul li a{
@@ -150,6 +147,7 @@ nav ul li a.active
     padding-top: 10px;
 }
 
+/* styling for number of quiz attempts */
 .quiz-attempts h3{
     font-size: 25px;
     color: #0097BC;
@@ -163,6 +161,7 @@ nav ul li a.active
     box-shadow: 10px 10px 5px lightblue;
 }
 
+/* styling for number of artciles read */
 .read-articles h3{
     font-size: 25px;
     color: #0097BC;
@@ -176,7 +175,7 @@ nav ul li a.active
     box-shadow: 10px 10px 5px lightblue; 
 
 }
-
+/* styling for experience points */
 .experience-points h3{
     font-size: 25px;
     color: #0097BC;
@@ -191,7 +190,7 @@ nav ul li a.active
 
 }
 
-
+/*style for mascot (forum)*/
 .mascot{
     position: fixed;
     margin-left: 60px;
@@ -199,7 +198,7 @@ nav ul li a.active
     display: flex;
 }
 
-
+/*style for 3d model*/
 model-viewer{
     width: 900px;
     height: 300px;
@@ -207,6 +206,7 @@ model-viewer{
     
 }
 
+/* style for rewards heading */
 .rewards h1 {
     font-size: 45px;
     text-align: center;
@@ -216,6 +216,7 @@ model-viewer{
 
 }
 
+/* style for what kind of rewards (reward's name) */
 .rewards h2 {
     font-size: 35px;
     color: #0097BC;
@@ -229,7 +230,7 @@ model-viewer{
     box-shadow: 10px 10px 5px lightblue; 
 }
 
-
+/* for giftcards placement  */
 .row {
     display: flex;
 }

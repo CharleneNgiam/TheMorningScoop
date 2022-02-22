@@ -50,7 +50,7 @@
 .splash h1{
     font-size: 40px;
 }
-
+/*for splash page to fade in and appear a few seconds*/
 @keyframes fadeIn{
     to{
         opacity: 1;
@@ -61,20 +61,18 @@
     opacity: 0;
     animation: fadeIn 1s ease-in forwards;
 }
-
+/* for lottie animation that are in splash page*/
 .animation-center{  
     display: flex;
     justify-content: center;
     align-items: center;
     padding-bottom: 100%;
-    height: 1vh ; /*if we only want this item to be smack center*/
+    height: 1vh ; 
 }
 
 
 
 /* for navigation bar in home page */
-
-
 nav{
     display: flex;
     align-items: center;
@@ -141,14 +139,14 @@ nav ul li a.active
     background-color: #61ADC0;
     height: 180px;
 }
+/* style for news image gotten from json(api) */
 .responsive-img{
     width: 50%;
     border-radius: 20px;
     margin-left: 370px;
     background-color: white;
 }
-
-
+/* style for news title gotten from json(api) */
 .news{
     font-size: 20px;
     color: #0097BC;
@@ -162,6 +160,7 @@ nav ul li a.active
     box-shadow: 10px 10px 5px lightblue;
     margin-bottom: 20px;
 }
+/* style for news url gotten from json(api) */
 .link{
     font-size: 20px;
     color: #0097BC;
@@ -329,7 +328,7 @@ nav ul li a.active
     padding-top: 200px;
 }
 
-
+/*style for mascot (forum)*/
 .mascot{
     position: fixed;
     margin-left: 60px;

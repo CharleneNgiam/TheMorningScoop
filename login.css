@@ -51,6 +51,7 @@
     font-size: 40px;
 }
 
+/*for splash page to fade in and appear a few seconds*/
 @keyframes fadeIn{
     to{
         opacity: 1;
@@ -62,6 +63,7 @@
     animation: fadeIn 1s ease-in forwards;
 }
 
+/* for lottie animation that are in splash page*/
 .animation-center{  
     display: flex;
     justify-content: center;
@@ -73,7 +75,6 @@
 
 
 /* for navigation bar in home page */
-
 
 nav{
     display: flex;
@@ -134,9 +135,6 @@ nav ul li a.active
 }
 
 /* style for form */
-/* #login-form{
-    display: none;
-} */
 
 .form-box{
     width:380px;
@@ -247,7 +245,7 @@ span{
     font-size: 15px;
 } 
 
-
+/* for form to fadein from left */
 @keyframes fadeInLeft {
     from {
         opacity:0;

@@ -9,7 +9,6 @@
 /* for the style of whole page of the website */
 .page{
     background: #D2F7FA;
-    /* min-height: 100vh; */
     height: 1500vh;
     width: 100%;
     color: white;
@@ -53,6 +52,7 @@
     font-size: 40px;
 }
 
+/*for splash page to fade in and appear a few seconds*/
 @keyframes fadeIn{
     to{
         opacity: 1;
@@ -64,6 +64,7 @@
     animation: fadeIn 1s ease-in forwards;
 }
 
+/* for lottie animation in splash page*/
 .animation-center{  
     display: flex;
     justify-content: center;
@@ -75,7 +76,6 @@
 
 
 /* for navigation bar in home page */
-
 
 nav{
     display: flex;
@@ -136,7 +136,7 @@ nav ul li a.active
 }
 
 
-/*style for mascot (chat)*/
+/*style for mascot (forum)*/
 .mascot{
     position: fixed;
     margin-left: 60px;
@@ -152,6 +152,7 @@ nav ul li a.active
     background-color: #61ADC0;
     height: 180px;
 }
+/* style for news image gotten from json(api) */
 .responsive-img{
     width: 50%;
     border-radius: 20px;
@@ -159,7 +160,7 @@ nav ul li a.active
     background-color: white;
 }
 
-
+/* style for news title gotten from json(api) */
 .news{
     font-size: 20px;
     color: #0097BC;
@@ -173,6 +174,7 @@ nav ul li a.active
     box-shadow: 10px 10px 5px lightblue;
     margin-bottom: 20px;
 }
+/* style for news link(read more) gotten from json(api) */
 .link{
     font-size: 20px;
     color: #0097BC;
@@ -188,10 +190,9 @@ nav ul li a.active
     margin-top: 20px;
 } 
 
-/* .link :hover{
-    box-shadow: 10px 10px 5px lightblue; */
 
 
+/* for news content to fade in from left */
 @keyframes fadeInLeft {
     from {
         opacity:0;

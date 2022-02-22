@@ -1,3 +1,4 @@
+/* data of thread */
 var defaultThreads = [
     {
         id: 1,

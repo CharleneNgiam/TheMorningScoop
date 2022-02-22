@@ -52,6 +52,7 @@
     font-size: 40px;
 }
 
+/*for splash page to fade in and appear a few seconds*/
 @keyframes fadeIn{
     to{
         opacity: 1;
@@ -63,18 +64,18 @@
     animation: fadeIn 1s ease-in forwards;
 }
 
+/* for lottie animation in splash page*/
 .animation-center{  
     display: flex;
     justify-content: center;
     align-items: center;
     padding-bottom: 100%;
-    height: 1vh ; /*if we only want this item to be smack center*/
+    height: 1vh ; 
 }
 
 
 
 /* for navigation bar in home page */
-
 
 nav{
     display: flex;
@@ -134,9 +135,7 @@ nav ul li a.active
     padding-left: 1px;
 }
 
-/* style for quiz */
-
-
+/* styling for quiz */
 .questions{
     margin: 3rem auto;
     width: 90vw;
@@ -224,8 +223,6 @@ button:active{
     margin-top: 1rem;
 }
 
-
-
 /* for quiz to fade in from left */
 @keyframes fadeInLeft {
     from {
@@ -263,31 +260,33 @@ button:active{
 }
 
 /* style for leaderboard */
+/* style for leaderboard word*/
 .leaderboard h1{
     color:black;
     font-size: 40px;
     /* margin-left: 20px; */
     text-align: center;
 }
-
+/* style for number 1*/
 .leaderboard h2{
     color:black;
     font-size: 30px;
     text-align: center;
 }
-
+/* style for number 2*/
 .leaderboard h3{
     color:black;
     font-size: 30px;
-    margin-left: 130px;
+    margin-left: 315px;
 }
-
+/* style for number 3*/
 .leaderboard h4{
     color:black;
     font-size: 30px;
-    margin-left: 1190px;
+    margin-left: 1090px;
 }
 
+/* placement of first trophy image */
 .trophy-img{
     display: block;
     margin-left: auto;
@@ -295,21 +294,21 @@ button:active{
     width: 80px;
     height: 80px;
 }
-
+/* placement of second trophy image */
 .trophy-img2{
     display: block;
-    margin-left: 125px;
+    margin-left: 310px;
     width: 85px;
     height: 85px;
 }
-
+/* placement of third trophy image */
 .trophy-img3{
     display: block;
-    margin-left: 1200px;
+    margin-left: 1100px;
     width: 85px;
     height: 85px;
 }
-
+/* style for number 4 to number 10*/
 .leaderboardleft h5{
     font-size: 25px;
     color: #0097BC;
@@ -323,7 +322,7 @@ button:active{
 }
 
 
-
+/* for leaderboard to fade in from left*/
 @keyframes fadeInLeft {
     from {
         opacity:0;
@@ -359,6 +358,7 @@ button:active{
     animation-delay: 2.5s;
 }
 
+/*mascot placement*/
 .mascot{
     position: fixed;
     margin-left: 60px;

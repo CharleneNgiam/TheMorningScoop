@@ -124,3 +124,6 @@ Media
 10. lazada gift card image - https://www.pinterest.com/pin/642255596856753055/
 Acknowledgements
 I received inspiration for this project from 
+
+
+link to github: https://charlenengiam.github.io/TheMorningScoop/

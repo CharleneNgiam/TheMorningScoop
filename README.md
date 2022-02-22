@@ -105,7 +105,7 @@ News API:
 screen sizes: 
 - Kindly view the website via desktop view. 
 - In certain desktop, you may have to increase/decrease the zoom due to different screen sizes from each desktop. Pls check the demo video to see what the layout looks like. Thankyou. 
-- please use localhost or github, thankyou
+
 
 
 Credits

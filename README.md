@@ -126,4 +126,8 @@ Acknowledgements
 I received inspiration for this project from 
 
 
-link to github: https://charlenengiam.github.io/TheMorningScoop/
+link to github: 
+website:
+https://charlenengiam.github.io/TheMorningScoop/
+code:
+https://github.com/CharleneNgiam/TheMorningScoop

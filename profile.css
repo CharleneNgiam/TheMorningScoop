@@ -229,3 +229,12 @@ model-viewer{
     box-shadow: 10px 10px 5px lightblue; 
 }
 
+
+.row {
+    display: flex;
+}
+.giftcards{
+    flex: 33.33%;
+    padding: 5px;
+
+}

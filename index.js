@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", (e)=>{
 
 /* for the top news article to appear from api*/
 $(document).ready(function(){
-  let url = "index.json"
+  let url = "news.json/topheadlines.json"
   $.ajax({
     url:url,
     method:"GET",

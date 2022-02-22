@@ -330,3 +330,9 @@ nav ul li a.active
 }
 
 
+.mascot{
+    position: fixed;
+    margin-left: 60px;
+    margin-top: 110px;
+    display: flex;
+}
